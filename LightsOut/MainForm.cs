@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+//I added this comment from GitHub
+
 namespace LightsOut
 {
     public partial class MainForm : Form
